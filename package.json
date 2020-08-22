@@ -1,0 +1,12 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "anywhere -h localhost -p 8888"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
